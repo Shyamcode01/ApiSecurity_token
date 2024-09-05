@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Wepapi_Management.props" />
+</Project>
