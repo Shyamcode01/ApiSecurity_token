@@ -12,5 +12,9 @@ namespace Wepapi_Management
 
 
         public DbSet<ApplicationUser> Application { get; set; }
+        public DbSet<user> Users { get; set; }
+        public DbSet<role> roles { get; set; }
+        public DbSet<userRole> userRoles { get; set; }
+        public DbSet<Employee> employees { get; set; }
     }
 }

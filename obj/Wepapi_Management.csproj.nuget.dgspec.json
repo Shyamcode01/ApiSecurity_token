@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kuldeep Done\\source\\repos\\Wepapi_Management\\Wepapi_Management.csproj": {}
+    "D:\\web\\dotnet\\ApiSecurity_token\\Wepapi_Management.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kuldeep Done\\source\\repos\\Wepapi_Management\\Wepapi_Management.csproj": {
+    "D:\\web\\dotnet\\ApiSecurity_token\\Wepapi_Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kuldeep Done\\source\\repos\\Wepapi_Management\\Wepapi_Management.csproj",
+        "projectUniqueName": "D:\\web\\dotnet\\ApiSecurity_token\\Wepapi_Management.csproj",
         "projectName": "Wepapi_Management",
-        "projectPath": "C:\\Users\\Kuldeep Done\\source\\repos\\Wepapi_Management\\Wepapi_Management.csproj",
-        "packagesPath": "C:\\Users\\Kuldeep Done\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kuldeep Done\\source\\repos\\Wepapi_Management\\obj\\",
+        "projectPath": "D:\\web\\dotnet\\ApiSecurity_token\\Wepapi_Management.csproj",
+        "packagesPath": "C:\\Users\\sonug\\.nuget\\packages\\",
+        "outputPath": "D:\\web\\dotnet\\ApiSecurity_token\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kuldeep Done\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sonug\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -105,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

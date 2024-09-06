@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wepapi_Management")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eec80bcda7b9b7c0f5a25e20a8c6af0d949a3b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wepapi_Management")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wepapi_Management")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

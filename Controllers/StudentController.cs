@@ -1,4 +1,5 @@
 ﻿using BCrypt.Net;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Wepapi_Management.Model;
@@ -54,6 +55,7 @@ namespace Wepapi_Management.Controllers
 
         [Route("GetLists")]
         [HttpGet]
+        [Authorize(Roles="admin")]
         public IActionResult GetList()
         {
             var listdata = _context.Application.ToList();
